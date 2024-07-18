@@ -1,0 +1,43 @@
+.box1{
+
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+      
+     flex-direction: column;
+     gap: 2px;
+
+    
+       
+
+    }
+
+}
+
+
+
+
+
+.box2 {
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+      
+   
+   width: 280px;
+       
+
+    }
+}
+
+.box3 {
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+      
+  margin-top: 10px;
+  
+       
+
+    }
+}

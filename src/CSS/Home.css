@@ -1,0 +1,79 @@
+.home{
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+        padding: 10px;
+       
+    }
+}
+
+.text1{
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+       margin-left: -150px;
+       
+       margin-top: 200px;
+       position: relative;
+       left: 10px;
+       bottom: 20px;
+    
+
+    }
+
+   
+
+}
+.hello  h1{
+    
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+       font-size: 80px;
+       
+
+    }
+
+}
+
+.hello {
+    
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+      
+      position: absolute;
+      right: 90px;
+       
+
+    }
+
+}
+
+.btn{
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+      
+     width: 105px;
+      
+       
+
+    }
+
+}
+
+.btn h1{
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+      
+     font-size: 10px;
+      
+       
+
+    }
+
+}
+
+
+

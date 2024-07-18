@@ -1,0 +1,38 @@
+
+.mainbox{
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+        flex-direction: column;
+        
+       
+        
+    }
+
+}
+
+.page2{
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+        
+
+       
+    }
+
+}
+
+.box{
+
+    @media only screen and (max-width: 649px) {
+        /* For mobile phones: */
+        
+        
+
+       
+    }
+
+    
+
+}
+
