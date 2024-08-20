@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import video1 from "../assets/video1.mp4"
 import video2 from "../assets/video2.mp4"
 import video3 from "../assets/New Project - Made with Clipchamp.mp4"
-import video4 from "../assets/New Project - Made with Clipchamp.mp4"
+import video4 from "../assets/Untitled video - Made with Clipchamp (1) (1).mp4"
 
 
 const Projects = () => {
