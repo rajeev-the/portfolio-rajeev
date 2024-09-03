@@ -39,9 +39,13 @@ const Skills = () => {
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAABEUlEQVR4nOWSvUoDURCFD/gGKmgqGxvxhwi2Nha+gEF7C2trfQshjb3NndmAjSAx3DPrzxtYqCm01MKtxFLZG0m47i12Wz0wxcDMxznDAP9Ucr2MLO9AbQ+SrzUH9PozUF5C7Ssu3sL5xQZOOIDyHmpPCdgbnG9H85m1qpDMryCzrUmfdyD8iGBiBTI7hPgNKA+gPK6CnJtKONyE8r3qLkAfwylqSwcLUDuF2DPUPkNs4QnOr+bijGJdiA1HQ3wJS+VybZ352R9AynYRYtWJD+ERhPsQro8OaEUMY3noncm8bYf/qtL9/K++DeFrwt0QwgeI9evHLZ9OeJOIewF3N10fNAZyFcLd8Es9LjUH/Al9Az6W0jAuqnnQAAAAAElFTkSuQmCC"/>
             <h3 className='text-white font-semibold'>Tailwindcss</h3>
             </div>
+            <div className='flex items-center m-1 gap-2'>
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABS0lEQVR4nOWVvUoDQRSFP1MIARWxilrbKAg2om2qWAgiEuzWwtrS9QH0DSJio5amVPAZBJ9BSaXYSMCfoIVuGLkLw+bO7g6ZQvDAhZnZc8/ZubNzF/4L1oB3IJEw40ZIgwtLPI3zUOLzQEcx6MgzL4wALaANNIFj4EcRT+Nb+IZ7KeNKnsFOjlhSMiKX+BjwGMDgGZjQDPYCiCcSRmsAq8CHI+EL2AdmJGJZ07hGY8VVpmWgpyTFCjdWeD3RyIW2i2mFV3O8fSHsG5tImLJkMavw3orEfUp04FuiokOOPQ55Y5jP9BPYBkbxxDjwVMLgjCEQlTBYF+4dcGvlpqU8suYDqGSaXUsaml3fKjAFvABdYNISnANe8ww0LFjt+lrWtoAr4AbYzOzg0NcA+bmYhN3fGZxauzpxCHoZ1OUSpRfuAVgEloD7EAZ/F33cY9zb2vtcfQAAAABJRU5ErkJggg=="/>
+            <h3 className='text-white font-semibold'>REST API</h3>
+            </div>
 
             {/* <div className='flex items-center m-1 gap-2'>
-            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAABfklEQVR4nO3UvUvWcRQF8I+ZRAYRYkPZEA4O+QIJkYkVDVK+LUFhi4vaoiCRIEhtDfkC5RBuRjg0NPSiFiI1iRGCQ4QOTQ1u/hHyhSv8fPABHSzI34Efz4XD9557zz085MiR43/B6X8lPIm7RbgW9KMXD3EFbXi5z97TaN+LqMYvvMIH1KIkw5/HGs6gBg9wDvP7FB7Gvb2IFyGaNrodjW9m+BP4EfXZ+C07gHB/MeElrKMHx3C9gE/Cf/AYrzPCn6O+g1EsxPs6jGMWFSF8H88wgcqdxs/xFVdRGg8V2fhaRvhL1OkEVVhBOeqxjNY4WRJ+F7fehUasYghNuFXAl2eEZYQXo56KrVPzk7gQuUjLXIpADkR+drlZEnZ/jDvXxuMdpMnnMtsmXMb7aPwII+FcumUXnsaXBnmCsRjmLZqz4snm35iJ6DcUJPtQMYif+IbOmPz43xAuDcu2sIkb6EZHuJAsP3WYA1xEHz5FOr9jI3LwJv7JcuTIkeMIYhvdAT5jUIrlywAAAABJRU5ErkJggg=="/>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAABfklEQVR4nO3UvUvWcRQF8I+ZRAYRYkPZEA4O+QIJkYkVDVK+LUFhi4vaoiCRIEhtDfkC5RBuRjg0NPSiFiI1iRGCQ4QOTQ1u/hHyhSv8fPABHSzI34Efz4XD9557zz085MiR43/B6X8lPIm
             <h3 className='text-white font-semibold'>Flask</h3>
             </div> */}
             
