@@ -37,6 +37,7 @@ const Experience = () => {
       <div className='box-1 mt-5'>
       <h1 className='   text-2xl  font-bold'>Certification</h1>
       <div className='flex m-6 gap-8'>
+        
       <a href="https://pdf.ac/23R2Wb" target="_blank">
       <div className='w-[150px] h-[170px] flex flex-col gap-1  items-center p-3  rounded-xl bg-[rgb(26,106,255)]'>
                
@@ -46,11 +47,8 @@ const Experience = () => {
                <h1 className='text-white font-semibold'>React</h1>
               
                <h3 className='text-white font-semibold mt-1  '>- DevTown</h3>
-            
-               
-
-
       </div></a>
+        
       <a href="https://pdf.ac/23R2Wb" target="_blank">
       <div className='w-[150px] h-[170px] flex flex-col gap-1  items-center p-3  rounded-xl bg-[rgb(26,106,255)]'>
                
@@ -60,11 +58,32 @@ const Experience = () => {
                <h1 className='text-white font-semibold'>Java in DSA</h1>
               
                <h3 className='text-white font-semibold mt-1  '>- Apna college</h3>
-            
-               
-
-
       </div></a>
+        
+
+              <a href="https://pdf.ac/23R2Wb" target="_blank">
+      <div className='w-[150px] h-[170px] flex flex-col gap-1  items-center p-3  rounded-xl bg-[rgb(26,106,255)]'>
+               
+               <div className=''>
+               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD4UlEQVR4nO1bSW/TUBCOuANSEfAHuHIHwYnaUbBL1WJbQrQ/gAOLAAkoHHpBbC2rBGqhbBIHJA5laVkVnI2mm0qbVrRFrUQTSIASFDtLkzjOoGeRxAkuQsVOjXmfNIry3jjz5svMvLH0ns2GgYGBsQRs27FrPUkxzSTNHiFo5uhyCLJtp9kmtBZbtUAQ3GqCZroIismRNAsmEYmk2OsOR9MqQ52vbWhYQ1DshAkc1hSCYsftdq7GMAJIiu1VGzxw+Dhc67wFXbfvLYsg2/sPH68k4bEhzhN13NaCEXsdB89eOMEs6H3+SllTYX21ddxm/Qmg2QsFA2fPXwGz4XTb5VIkUEy77gSQNNNTMMC7fWA2OHmvsWlAUixfMDAamACzAa2pFAEsjwnQGySOABanALlIDcjJMkS+i/Dpm2C4IDvInqlqwEw4Cv7JYNVkNhw1FwGz1SYgYjICcrIM4agIc19jhguyY7oUMAMwAQEcAYBTgF6mGhAVUzA4/bEqOwCyg+yZqgZMhuarug1Oheb/3wgYem/CCDADMAEBHAGAU4D+l16HoyIsZCRr1ICZJb4Nvp0JW4OA2f+dgNwSXoc/zgvWSQEzABMQwBEAOAVoXAMAF0Ea7wKAt0HqH+4D8rkcZMMRSE1OQ3JsXPnMRj4r45bvA6TodxD7BkBweX8RNI7mLUuA9C0Kgtun6XxR3D5Fz3IE5LMSiD5/6d9+0w/puZDiLPpE34tzPj/kJclaBKQ/BIsOxv2DkM9kygnKZED0l1IjPRe0FgGJkdGic9nPXzR10HhBB+lbigCxrxTi8sKCpg4aVxdESxEQ7x8sEZBMahOQSJbSpH/IWgQkx8aLzmWCIU2ddDBU1Elq2DecAIJmnxQMvHZ5dSUANTrF8Pb2QS4mlM2j72j8d3XCyXvUJ0Uf6U8AxZwvGEDHUnWFLEN8cLhsv0cdINoCU++myvqD+NCIol+JU+cuqQ9Nt+lOALl95xb1YWl0QFlP5OKJsl5gsW5Qq0b0PH1ZfmLc0bjJZgQIVRog2XeoBTq77sL9B91/Ja+cbsjn8yCnUot2g+IbP8jpNCQSSeh+1Ks813HjDuw9eKzy3sBDm1Gw27kadCmhwqAugkhAUOe6WuIDw8p8+8Wrv/kdJmDohQkEdC2FoJlO5ZqKniRQTDP6fYH3iFoExHjvNJonKPamxvMSQTMd9fX1K23VAkk2riO2c7tJmm0hafbMXwnFNLe2tq74IwIIbjVZxx36+WwLWoPDwa21WQUC7xFjvEeOubw9Md63R3B5eDUBlofAe0/G+L4N6rG4y7Ux5vKcWL5VYWBg2CyKHw+5C50tDPeXAAAAAElFTkSuQmCC"/>
+               </div>
+               <h1 className='text-white font-semibold'>MERN Stack</h1>
+              
+               <h3 className='text-white font-semibold mt-1  '>-30dayscoding</h3>
+      </div></a>
+                      <a href="https://pdf.ac/23R2Wb" target="_blank">
+      <div className='w-[150px] h-[170px] flex flex-col gap-1  items-center p-3  rounded-xl bg-[rgb(26,106,255)]'>
+               
+               <div className=''>
+               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD4UlEQVR4nO1bSW/TUBCOuANSEfAHuHIHwYnaUbBL1WJbQrQ/gAOLAAkoHHpBbC2rBGqhbBIHJA5laVkVnI2mm0qbVrRFrUQTSIASFDtLkzjOoGeRxAkuQsVOjXmfNIry3jjz5svMvLH0ns2GgYGBsQRs27FrPUkxzSTNHiFo5uhyCLJtp9kmtBZbtUAQ3GqCZroIismRNAsmEYmk2OsOR9MqQ52vbWhYQ1DshAkc1hSCYsftdq7GMAJIiu1VGzxw+Dhc67wFXbfvLYsg2/sPH68k4bEhzhN13NaCEXsdB89eOMEs6H3+SllTYX21ddxm/Qmg2QsFA2fPXwGz4XTb5VIkUEy77gSQNNNTMMC7fWA2OHmvsWlAUixfMDAamACzAa2pFAEsjwnQGySOABanALlIDcjJMkS+i/Dpm2C4IDvInqlqwEw4Cv7JYNVkNhw1FwGz1SYgYjICcrIM4agIc19jhguyY7oUMAMwAQEcAYBTgF6mGhAVUzA4/bEqOwCyg+yZqgZMhuarug1Oheb/3wgYem/CCDADMAEBHAGAU4D+l16HoyIsZCRr1ICZJb4Nvp0JW4OA2f+dgNwSXoc/zgvWSQEzABMQwBEAOAVoXAMAF0Ea7wKAt0HqH+4D8rkcZMMRSE1OQ3JsXPnMRj4r45bvA6TodxD7BkBweX8RNI7mLUuA9C0Kgtun6XxR3D5Fz3IE5LMSiD5/6d9+0w/puZDiLPpE34tzPj/kJclaBKQ/BIsOxv2DkM9kygnKZED0l1IjPRe0FgGJkdGic9nPXzR10HhBB+lbigCxrxTi8sKCpg4aVxdESxEQ7x8sEZBMahOQSJbSpH/IWgQkx8aLzmWCIU2ddDBU1Elq2DecAIJmnxQMvHZ5dSUANTrF8Pb2QS4mlM2j72j8d3XCyXvUJ0Uf6U8AxZwvGEDHUnWFLEN8cLhsv0cdINoCU++myvqD+NCIol+JU+cuqQ9Nt+lOALl95xb1YWl0QFlP5OKJsl5gsW5Qq0b0PH1ZfmLc0bjJZgQIVRog2XeoBTq77sL9B91/Ja+cbsjn8yCnUot2g+IbP8jpNCQSSeh+1Ks813HjDuw9eKzy3sBDm1Gw27kadCmhwqAugkhAUOe6WuIDw8p8+8Wrv/kdJmDohQkEdC2FoJlO5ZqKniRQTDP6fYH3iFoExHjvNJonKPamxvMSQTMd9fX1K23VAkk2riO2c7tJmm0hafbMXwnFNLe2tq74IwIIbjVZxx36+WwLWoPDwa21WQUC7xFjvEeOubw9Md63R3B5eDUBlofAe0/G+L4N6rG4y7Ux5vKcWL5VYWBg2CyKHw+5C50tDPeXAAAAAElFTkSuQmCC"/>
+               </div>
+               <h1 className='text-white font-semibold'>Flutter Development</h1>
+              
+               <h3 className='text-white font-semibold mt-1  '>-udemy</h3>
+      </div></a>
+
+        
+        
       </div>
       </div>
       
