@@ -49,7 +49,7 @@ const Experience = () => {
                <h3 className='text-white font-semibold mt-1  '>- DevTown</h3>
       </div></a>
         
-      <a href="https://pdf.ac/23R2Wb" target="_blank">
+      <a href="https://drive.google.com/file/d/1sECqnQoEV5dfQMNbEQlObQqXChLLr7P-/view?usp=sharing" target="_blank">
       <div className='w-[150px] h-[170px] flex flex-col gap-1  items-center p-3  rounded-xl bg-[rgb(26,106,255)]'>
                
                <div className=''>
@@ -61,7 +61,7 @@ const Experience = () => {
       </div></a>
         
 
-              <a href="https://pdf.ac/23R2Wb" target="_blank">
+              <a href="https://drive.google.com/file/d/14Sk-ycW_jiaXaXZWyW4brpFKZ7oDwB1g/view?usp=sharing" target="_blank">
       <div className='w-[150px] h-[170px] flex flex-col gap-1  items-center p-3  rounded-xl bg-[rgb(26,106,255)]'>
                
                <div className=''>
@@ -71,7 +71,7 @@ const Experience = () => {
               
                <h3 className='text-white font-semibold mt-1  '>-30dayscoding</h3>
       </div></a>
-                      <a href="https://pdf.ac/23R2Wb" target="_blank">
+                      <a href="https://drive.google.com/file/d/1p3Ar3B2A0RTUMJXB6rrWr4hGvAd0GOwd/view?usp=sharing" target="_blank">
       <div className='w-[150px] h-[170px] flex flex-col gap-1  items-center p-3  rounded-xl bg-[rgb(26,106,255)]'>
                
                <div className=''>
